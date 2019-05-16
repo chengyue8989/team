@@ -1,4 +1,4 @@
-﻿var name='RlegeioioC';
+﻿var name='RlegeioioCopy';
 console.log("张欢");
 alert("徐衡到此一游");
 console.log("fromxuheng");
