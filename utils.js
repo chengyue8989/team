@@ -5,3 +5,5 @@ console.log("fromxuheng");
 console.log("liyanghang");
 console.log("zhaoxiaofei");
 "杨延智"
+document.write("我来看看");
+
