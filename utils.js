@@ -1,5 +1,6 @@
-var name='RlegeC';
+﻿var name='RlegeioioCopy';
+console.log("张欢");
 alert("徐衡到此一游");
-consloe.log("liyanghang");
-console.log("张欢")
+console.log("fromxuheng");
+console.log("liyanghang");
 
